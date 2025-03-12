@@ -19,12 +19,12 @@
 
 @font-face {
     font-family: "Sohne";
-    src: url("../typefaces/Sohne-Buch-383b619813ba6882f6f9025c0f320367.woff2") format('woff2');
+    src: url("/assets/typefaces/Sohne-Buch-383b619813ba6882f6f9025c0f320367.woff2") format('woff2');
 }
 
 @font-face {
     font-family: "Founders";
-    src: url("../typefaces/founders-grotesk-text-light_X4JDfEw.otf.woff") format('woff');
+    src: url("assets/typefaces/founders-grotesk-text-light_X4JDfEw.otf.woff") format('woff');
 }
 
 /*-----------------------------------*\
